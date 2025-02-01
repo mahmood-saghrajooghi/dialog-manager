@@ -1,3 +1,3 @@
 export const DialogIds = {
-  CREATE_DOCUMENT: 'CREATE_DOCUMENT',
+  MyDialog: 'MyDialog',
 } as const;
